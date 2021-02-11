@@ -1,8 +1,6 @@
 # Jogo-da-Velha
 Jogo da velha Desenvolvido no Segundo semestre do curso de Ciência da Computação.
 
-# Jogo da velha simples.
-
 ## Funcionalidades Desenvolvidas
 * O player jogará contra o computador;
 
